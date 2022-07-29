@@ -16,7 +16,7 @@
 
 ***
 
-## ⚡Algorithms
+## ⚡ Algorithms
 
 #### Programmers - [Lv.1](https://github.com/DongEon31/CodingTest_with_Python/tree/main/LEVEL1)
 
