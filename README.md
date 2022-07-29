@@ -1,14 +1,18 @@
 ### DongEon's Github!
 
 #### Interested in :chart_with_upwards_trend:Algorithms and :computer:Machine Learning!  
-#### :mortar_board: Inha Univ. Info and communication Engineering. Expected to graduate on 2023.02.
+
+#### :mortar_board: Inha Univ. Info and communication Engineering. (Expected to graduate on 2023.02.)
+
+#### :memo: [My tistory blog!](https://coding-archive31.tistory.com/)
+
 ***
 
 ## 🌱 Google ML Bootcamp 2022 (2022.06.22~)
 
 #### 22.07.06 - [Coursera : Deep Learning Specialization](https://www.credly.com/badges/36ec8c8f-2e43-4f78-b362-cafbaf2728ba)
 
-#### 22.07.29 - [TensorFlow Developer Certificate :paperclip:](https://www.credential.net/836293ac-b2a8-48b4-a473-ba0ce51785ba) 
+#### 22.07.29 - [TensorFlow Developer Certificate](https://www.credential.net/836293ac-b2a8-48b4-a473-ba0ce51785ba) 
 
 ***
 
