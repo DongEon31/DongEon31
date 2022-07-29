@@ -3,7 +3,7 @@
 ### Interested in :chart_with_upwards_trend:Algorithms and :computer:Machine Learning!  
 
 ### :mortar_board: Inha Univ. Info and communication Engineering. 
-####(Expected to graduate on 2023.02.)
+#### (Expected to graduate on 2023.02.)
 
 ### :memo: [My tistory blog!](https://coding-archive31.tistory.com/)
 
