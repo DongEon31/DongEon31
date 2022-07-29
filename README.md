@@ -1,4 +1,4 @@
-## :ghost: DongEon's Github! :ghost:
+# :ghost: DongEon's Github! :ghost:
 
 #### Interested in :chart_with_upwards_trend:Algorithms and :computer:Machine Learning!  
 
@@ -8,7 +8,7 @@
 
 ***
 
-## 🌱 Google ML Bootcamp 2022 (2022.06.22~)
+# 🌱 Google ML Bootcamp 2022 (2022.06.22~)
 
 #### 22.07.06 - :bulb: [Coursera : Deep Learning Specialization](https://www.credly.com/badges/36ec8c8f-2e43-4f78-b362-cafbaf2728ba)
 
@@ -16,7 +16,7 @@
 
 ***
 
-## ⚡ Algorithms
+# ⚡ Algorithms
 
 #### Programmers - [Lv.1](https://github.com/DongEon31/CodingTest_with_Python/tree/main/LEVEL1)
 
