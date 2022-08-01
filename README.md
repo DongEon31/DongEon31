@@ -1,5 +1,7 @@
 # :ghost: DongEon's Github! :ghost:
 
+### Thank you for visiting my Github!
+
 ### Interested in :chart_with_upwards_trend:Algorithms and :computer:Machine Learning!  
 
 ### :mortar_board: Inha Univ. Info and communication Engineering. 
