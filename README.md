@@ -26,3 +26,7 @@
 ### Programmers - [Lv.2](https://github.com/DongEon31/CodingTest_with_Python/tree/main/LEVEL2)
 
 ### Programmers - [Lv.3](https://github.com/DongEon31/CodingTest_with_Python/tree/main/LEVEL3)
+
+***
+
+[![DongEon's GitHub stats](https://github-readme-stats.vercel.app/api?username=DongEon31)](https://github.com/DongEon31/github-readme-stats)
