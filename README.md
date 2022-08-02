@@ -29,4 +29,5 @@
 
 ***
 
-[![DongEon's GitHub stats](https://github-readme-stats.vercel.app/api?username=DongEon31&show_icons=true&theme=radical)](https://github.com/DongEon31/github-readme-stats)
+[![DongEon's GitHub stats](https://github-readme-stats.vercel.app/api?username=DongEon31&show_icons=true&theme=radical)](https://github.com/DongEon31/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DongEon31&layout=compact)](https://github.com/DongEon31/github-readme-stats)
+
