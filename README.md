@@ -2,7 +2,7 @@
 
 ### Thank you for visiting my Github!
 
-### Interested in :chart_with_upwards_trend:Algorithms and :computer:Machine Learning!  
+### I'm studying :chart_with_upwards_trend:Algorithms and :computer:Machine Learning!  
 
 ### :mortar_board: Inha Univ. Info and communication Engineering. 
 #### (Expected to graduate on 2023.02.)
