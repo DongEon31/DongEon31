@@ -29,4 +29,4 @@
 
 ***
 
-[![DongEon's GitHub stats](https://github-readme-stats.vercel.app/api?username=DongEon31)](https://github.com/DongEon31/github-readme-stats)
+[![DongEon's GitHub stats](https://github-readme-stats.vercel.app/api?username=DongEon31&show_icons=true&theme=radical)](https://github.com/DongEon31/github-readme-stats)
