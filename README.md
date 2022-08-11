@@ -7,7 +7,7 @@
 ### :mortar_board: Inha Univ. Info and communication Engineering. 
 #### (Expected to graduate on 2023.02.)
 
-### :memo: [My tistory blog!](https://coding-archive31.tistory.com/)
+### :memo: [My Tistory Blog](https://coding-archive31.tistory.com/)
 
 ***
 
