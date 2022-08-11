@@ -11,11 +11,15 @@
 
 ***
 
-# 🌱 Google ML Bootcamp 2022 (2022.06.22~)
+# :four_leaf_clover: Google Machine Learning Bootcamp 2022 (2022.06.22~)
 
 ### 22.07.06 - :bulb: [Coursera : Deep Learning Specialization](https://www.credly.com/badges/36ec8c8f-2e43-4f78-b362-cafbaf2728ba)
 
 ### 22.07.29 - :sparkles: [TensorFlow Developer Certificate](https://www.credential.net/836293ac-b2a8-48b4-a473-ba0ce51785ba) 
+
+***
+
+# 🌱 KIST AI Internship (2022.08.29~)
 
 ***
 
