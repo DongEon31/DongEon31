@@ -19,7 +19,7 @@
 
 ***
 
-# 🌱 KIST AI Internship (2022.08.29 ~ 2022.12.16)
+# 🌱 KIST AI/Robot Internship (2022.08.29 ~ )
 
 ***
 
