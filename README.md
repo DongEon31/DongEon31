@@ -19,10 +19,6 @@
 
 ***
 
-# 🌱 KIST AI/Robot Internship (2022.08.29 ~ )
-
-***
-
 # ⚡ Algorithms
 
 ### Programmers - [Lv.1](https://github.com/DongEon31/CodingTest_with_Python/tree/main/LEVEL1)
